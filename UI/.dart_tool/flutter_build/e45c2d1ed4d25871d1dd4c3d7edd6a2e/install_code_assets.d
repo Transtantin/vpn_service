@@ -1,0 +1,1 @@
+ X:\\projects\\ucheba\\vpn\\my_vpn_client\\UI\\.dart_tool\\flutter_build\\e45c2d1ed4d25871d1dd4c3d7edd6a2e\\native_assets.json: 
