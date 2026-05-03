@@ -1,0 +1,17 @@
+[
+  {
+    "id": "server-1",
+    "name": "My Server",
+    "location": "Home",
+    "flagUrl": "https://flagcdn.com/w80/ru.png",
+    "ip": "1.2.3.4",
+    "ping": 10,
+    "configs": [
+      {
+        "protocol": "vless",
+        "config_string": "vless://ТВОЙ-UUID@ТВОЙ-IP:443?encryption=none&security=tls&type=ws&path=%2Fvless#MyServer",
+        "priority": 1
+      }
+    ]
+  }
+]
