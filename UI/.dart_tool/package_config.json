@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0",
+      "rootUri": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -33,9 +33,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "rootUri": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.9",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.9"
     },
     {
       "name": "fake_async",
@@ -45,7 +45,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///G:/flutter_sdk/packages/flutter",
+      "rootUri": "file:///G:/soft/flutter_sdk/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -57,7 +57,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///G:/flutter_sdk/packages/flutter_test",
+      "rootUri": "file:///G:/soft/flutter_sdk/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -135,7 +135,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///G:/flutter_sdk/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///G:/soft/flutter_sdk/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -189,7 +189,7 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.2",
+      "rootUri": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -208,7 +208,7 @@
   ],
   "generator": "pub",
   "generatorVersion": "3.11.0",
-  "flutterRoot": "file:///G:/flutter_sdk",
+  "flutterRoot": "file:///G:/soft/flutter_sdk",
   "flutterVersion": "3.41.2",
   "pubCache": "file:///C:/Users/Transtantin/AppData/Local/Pub/Cache"
 }
